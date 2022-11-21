@@ -15,3 +15,4 @@ document.addEventListener("DOMContentLoaded", function() {
    else{
     alert("Invalid Email");
    }
+   
