@@ -135,6 +135,9 @@ p {
  background-color: #ad1457;
 }
 
+.container .row h3{
+  margin-top:2rem;
+}
 .projects-section {
   text-align: center;
   padding: 10rem 2rem;
